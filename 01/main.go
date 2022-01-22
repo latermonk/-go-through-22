@@ -1,3 +1,5 @@
+// DAY01  helloworld & multiple-platform compile
+
 package main
 
 import "fmt"
